@@ -18,8 +18,8 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://tianqi.name
-baseurl : /jekyll-TeXt-theme
+url     : ultralegendz.github.io/41
+baseurl : /
 title   : TeXt Theme
 description: >
   A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
@@ -218,7 +218,7 @@ collections:
 defaults:
   ## home
   - scope:
-      path: "test"
+      path: "samples.html"
     values:
       articles:
         excerpt_type: html
